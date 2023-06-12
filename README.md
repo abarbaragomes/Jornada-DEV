@@ -3,4 +3,4 @@
 
  Repositório criado para praticar os ensinamentos do curso sobre Git e GitHub.
 
-Testanto criar essa linha eu adicionei diretamente no site!
+Testanto criar essa linha que eu adicionei diretamente no site!
