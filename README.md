@@ -2,7 +2,7 @@
 
 ![](https://github.com/abarbaragomes/Jornada-DEV/assets/136185103/64d6cafe-5112-4c35-80ab-47a36a55cda9)
 
- Primeiro repositório do curso de **Git e GitHub** do *[Curso em Vídeo](https://www.youtube.com/live/xEKo29OWILE?feature=share)*.
+ Primeiro repositório feito durante as aulas do curso de **Git e GitHub** do *[Curso em Vídeo](https://www.youtube.com/live/xEKo29OWILE?feature=share)*.
 
  Repositório criado para praticar os ensinamentos do curso sobre **Git e GitHub**.
 
