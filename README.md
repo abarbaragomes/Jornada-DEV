@@ -1,6 +1,4 @@
-# Jornada DEV 🖖
-
-![](https://github.com/abarbaragomes/Jornada-DEV/assets/136185103/64d6cafe-5112-4c35-80ab-47a36a55cda9)
+# Jornada Git e Github 📝
 
  Primeiro repositório feito durante as aulas do curso de **Git e GitHub** do *[Curso em Vídeo](https://www.youtube.com/live/xEKo29OWILE?feature=share)*.
 
@@ -28,32 +26,32 @@ O curso é composto por 13 aulas, sendo:
 ## Aula de Linguagem Markdown
 Estou aprendendo linguagem *Markdown* no Curso de **Git e GitHub**
 
-1. Teste sub item
-   1. teste1
-   2. teste2
+1. Criação de sub item
+   1. Sub item 1
+   2. Sub item 2
 
 Lista demarcada:
 * Teste
 * Teste
    * Teste
 * Teste
-*
+
 
 Lista de tarefas:
 - [x] Redigir este README
 - [ ] Commitar 
 
 
-Teste de tabela:
+Criando tabela:
 Num | Nome | Nota
 ---|---|---
 1 | Gustavo | 8,5
 2 | José | 10,0
 3 | Maria | 9,00
 
-Não entendo direito para que serve o comando `document.getElementByld()` da linguagem JavaScript
+Um comando aleatório da `document.getElementByld()` da linguagem JavaScript
 
-Olha meu programa em Phyton
+Transcrevendo uns códigos: 
 ```
 num = int(input('Digite um valor: ')
 if num % 2 == 0:
@@ -62,5 +60,5 @@ else:
     print(f'O valor {num} é ÍMPAR')
 ```
 
-> mais um teste 
+> Fim! 
 
